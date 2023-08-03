@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AlextheCoder
+- 👀 I’m interested in Video Games
+- 🌱 I’m currently learning how to make text based adventure games and coding
+- 📫 How to reach me you can contact me on bountyhunterfordays@outlook.com
